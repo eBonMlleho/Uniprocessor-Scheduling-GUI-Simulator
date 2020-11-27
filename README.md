@@ -8,4 +8,4 @@ The main program takes task sets and parameters from user input, and then does s
 
 The evaluation and test include all possible scenarios for RMS and EDF such as text feedback when utilization test fails, GUI display when utilization test passed, and user input task set numbers.
 
-see project report for more details 
+See project report for more details 
